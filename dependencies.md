@@ -1,5 +1,5 @@
 # Google Apps Script Project: testBmEmitter
-This repo (testBmEmitter) was automatically updated on 1/3/2025, 11:30:01 AM by GasGit
+This repo (testBmEmitter) was automatically updated on 1/9/2025, 4:14:01 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -22,12 +22,12 @@ demo| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-BmEmitter| BmEmitter|11uODffaJQ9JL7MTC_reXIJhStbUBalUL1McbnEBkU2_kiRsw5STlFYtj|0|no|[here](libraries/BmEmitter "library source")
+BmEmitter| BmEmitter|11uODffaJQ9JL7MTC_reXIJhStbUBalUL1McbnEBkU2_kiRsw5STlFYtj|2|no|[here](libraries/BmEmitter "library source")
 bmUnitTester| bmUnitTester|1zOlHMOpO89vqLPe5XpC-wzA9r5yaBkWt_qFjKqFNsIZtNJ-iUjBYDt-x|9|no|[here](libraries/bmUnitTester "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-BmEmitter| BmEmitter|11uODffaJQ9JL7MTC_reXIJhStbUBalUL1McbnEBkU2_kiRsw5STlFYtj|0|no|[here](libraries/BmEmitter "library source")
+BmEmitter| BmEmitter|11uODffaJQ9JL7MTC_reXIJhStbUBalUL1McbnEBkU2_kiRsw5STlFYtj|2|no|[here](libraries/BmEmitter "library source")
 bmUnitTester| bmUnitTester|1zOlHMOpO89vqLPe5XpC-wzA9r5yaBkWt_qFjKqFNsIZtNJ-iUjBYDt-x|9|no|[here](libraries/bmUnitTester "library source")
 ### Enabled Google Services
 no libraries discovered
